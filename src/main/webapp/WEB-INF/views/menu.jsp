@@ -13,7 +13,7 @@
 %>
 <br><p>
 
-<a href=/insert?username=test1>new데이터 추가111</a> <br><p>
+<a href=/insert?username=test1>new데이터 추가</a> <br><p>
 <a href=/select?id=1>new개별 조회222</a> <br><p>
 <a href=/selectAll>new전체 조회333</a> <br><p>
 <a href=/delete?id=2>new데이터 삭제444</a> <br><p>
